@@ -56,16 +56,16 @@ body {
 
 @media (max-width: 767px) {
   .home-image {
-    background-image: url("./assets/home/background-home-mobile.jpg");
+    background-image: url("/assets/home/background-home-mobile.jpg");
   }
   .destination-image {
-    background-image: url("./assets/destination/background-destination-mobile.jpg");
+    background-image: url("/assets/destination/background-destination-mobile.jpg");
   }
   .crew-image {
-    background-image: url("./assets/crew/background-crew-mobile.jpg");
+    background-image: url("/assets/crew/background-crew-mobile.jpg");
   }
   .technology-image {
-    background-image: url("./assets/technology/background-technology-mobile.jpg");
+    background-image: url("/assets/technology/background-technology-mobile.jpg");
   }
 }
 
